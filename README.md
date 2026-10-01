@@ -3,7 +3,7 @@
 <!--
 <!-- **sitirobiah/sitirobiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to ge# Hi there, I'm Biya 👋
+Hi there, I'm Biya 👋
 
 🎓 Informatics Engineering Student  
 🔐 Aspiring Cybersecurity Professional  
