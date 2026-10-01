@@ -115,5 +115,7 @@ but also about understanding how things work and practicing them.
 
 ### 🤝 Connect With Me
 
-![https://www.instagram.com/sidewayorhaka](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
-![https://www.linkedin.com/in/siti-robiah-](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+## 🤝 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sidewayorhaka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siti-robiah-/)
