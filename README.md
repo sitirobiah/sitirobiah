@@ -113,9 +113,6 @@ but also about understanding how things work and practicing them.
 - Web security
 - Penetration testing fundamentals
 
----
+### 🤝 Connect With Me
 
-## 🗂️ My Cybersecurity Learning Journey
-
-I'm documenting my learning process here so I can see my progress
-from beginner to cybersecurity professional.
+![https://www.instagram.com/sidewayorhaka/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
