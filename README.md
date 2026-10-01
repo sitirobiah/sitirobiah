@@ -119,30 +119,3 @@ but also about understanding how things work and practicing them.
 
 I'm documenting my learning process here so I can see my progress
 from beginner to cybersecurity professional.
-
-```text
-Cybersecurity Fundamentals
-        ↓
-Networking Fundamentals
-        ↓
-Linux Fundamentals
-        ↓
-Security Tools
-        ↓
-Web Security
-        ↓
-CTF & Hands-on Labs
-        ↓
-Penetration Testing
-        ↓
-Red Teamingt you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
